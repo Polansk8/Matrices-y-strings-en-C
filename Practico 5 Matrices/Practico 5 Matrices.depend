@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1653603615 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\practico 5 matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1491400448 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\practico 5 matrices\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
